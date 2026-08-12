@@ -15,7 +15,7 @@ EX.CONFIG = {
      4. Copia la URL que termina en /exec y pégala aquí abajo.
      Mientras esté vacío, el examen funciona igual y guarda los resultados
      en este dispositivo (los puedes descargar en CSV al terminar).          */
-  urlAppsScript: '',
+  urlAppsScript: 'https://script.google.com/macros/s/AKfycbx5-15bhhh8xXPXXFUbX_Z8_3UU1X3m4PEXcySMFl49FqyKwDnPdU48OXXdLwlURHV0/exec',
 
   hojaCalculo: {
     id: '1xtsQyxeNEno3EJ8s-7o0RqXdHr3HORiRuI5vUCOv-gE',
